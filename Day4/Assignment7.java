@@ -12,3 +12,21 @@ class Assignment7{
         System.out.println("Returned square: " + square);
     }
 }
+
+
+// import java.util.Scanner;
+// class Assignmnet7{
+//     public static int getSquare(){
+//         Scanner sc = new Scanner(System.in);
+//         System.out.print("Enter the number:");
+//         int n = sc.nextInt();
+//         int result = n*n;
+//         return result;
+//     }
+        
+//     public static void main(String[]args){
+        
+//         int s = getSquare();
+//         System.out.println("Returned square:"+s );
+//     }
+// }
